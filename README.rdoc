@@ -1,0 +1,14 @@
+= SixamoLet
+
+Rack on Sixamo.
+
+= What's this?
+
+This is dummy project for Rack study.
+Sixamo is ChatterBot-Engine.
+
+= Requirement
+
+- Rack
+- Sixamo
+
